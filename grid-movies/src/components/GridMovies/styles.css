@@ -1,0 +1,12 @@
+.MovieCard {
+    border-radius: 20px;
+    padding: 1em;
+    margin: 1em;
+    box-shadow: 0.2em 0.4em 0.4em -0.2em #999;
+}
+
+.MovieCard-title {
+    text-align: center;
+    color: #999;
+    font-size: 18px;
+}

@@ -1,0 +1,14 @@
+{
+    "titleheader": "Peliculas!",
+    "listofmovies": "!Listado de peliculas!",
+    "showPeliculaBtn1": "Mostrar Rick and Morty!",
+    "showPeliculaBtn2": "Mostrar Breaking Bad!",
+    "characters": "Personajes",
+    "name": "Nombre",
+    "status": "Estado",
+    "alive": "Vivo",
+    "dead": "Muerto",
+    "unknown": "Desconocido",
+    "deceased":"Fallecido(a)",
+    "presumed dead": "Se presume Fallecido"
+}
